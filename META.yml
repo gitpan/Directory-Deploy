@@ -3,6 +3,7 @@ abstract: 'Create files and directories on disk'
 author:
   - 'Robert Krimen <rkrimen@cpan.org>'
 build_requires:
+  Directory::Scratch: 0
   ExtUtils::MakeMaker: 6.42
   Test::Most: 0
 configure_requires:
@@ -28,4 +29,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/Directory-Deploy/tree/master
-version: 0.001
+version: 0.002

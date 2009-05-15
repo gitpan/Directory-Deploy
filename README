@@ -2,7 +2,7 @@ NAME
     Directory::Deploy - Create files and directories on disk
 
 VERSION
-    Version 0.001
+    Version 0.002
 
 SYNOPSIS
         package My::Assets;
